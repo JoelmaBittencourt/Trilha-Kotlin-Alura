@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Herança e polimorfismo.iml" filepath="$PROJECT_DIR$/.idea/Herança e polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO-kotlin.iml" filepath="$PROJECT_DIR$/POO-kotlin.iml" />
     </modules>
   </component>
 </project>
